@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.tensorflow.org/">
-        <img src="https://logowik.com/content/uploads/images/tensorflow4903.jpg" width="48" height="48" alt="TensorFlow" />
+        <img src="https://iconape.com/wp-content/png_logo_vector/tensorflow.png" width="48" height="48" alt="TensorFlow" />
       </a>
       <br>TensorFlow
     </td>
