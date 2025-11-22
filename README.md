@@ -72,13 +72,20 @@
   </tr>
 </table>
 
-<h2 align="left">GitHub Stats & Streak</h2>
+<h2 align="left">GitHub Stats & Activity (2025)</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" align="right" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=tokyonight" alt="GitHub Streak" />
-
-</p>
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" alt="GitHub Stats 2025" />
+    </td>
+    <td>
+      <!-- GitHub Streak -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <!-- links -->
 [GitHub Repositories]: https://github.com/MahmoudDahees?tab=repositories
