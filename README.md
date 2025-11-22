@@ -5,7 +5,7 @@
   <a href="https://github.com/MahmoudDahees">
     <img src="https://komarev.com/ghpvc/?username=MahmoudDahees" alt="page views" />
   </a>
-  <a href="https://www.linkedin.com/in/mahmoud-mohamed-dahees-7b86511b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGoUtWC7vQq2Kx3AdJcdzaw%3D%3D">
+  <a href="https://www.linkedin.com/in/mahmoud-mohamed-dahees-7b86511b2">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
   </a>
   <a href="https://github.com/MahmoudDahees?tab=followers">
@@ -17,14 +17,14 @@
 </p>
 
 <a href="#mahmoud-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&theme=radical&hide_title=true" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical&hide_title=true&since=2025-01-01" align="right" />
 </a>
 
-- :computer: &nbsp;I’m currently working as an **AI/ML Programmer**
-- :seedling: &nbsp;Learning and experimenting with **deep learning & neural networks**
-- :speech_balloon: &nbsp;I enjoy sharing insights about **Python**, **TensorFlow**, **Data Science**, and **ML**
-- :book: &nbsp;Explore my projects on **[GitHub Repositories]**
-- :mailbox: &nbsp;Ask me anything via **[issues page]**
+- :computer: &nbsp;I’m currently working as an **AI/ML Programmer**  
+- :seedling: &nbsp;Learning and experimenting with **deep learning & neural networks**  
+- :speech_balloon: &nbsp;I enjoy sharing insights about **Python**, **TensorFlow**, **Data Science**, and **ML**  
+- :book: &nbsp;Explore my projects on **[GitHub Repositories]**  
+- :mailbox: &nbsp;Ask me anything via **[issues page]**  
 - :rocket: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -72,14 +72,17 @@
   </tr>
 </table>
 
-<h2 align="left">GitHub Stats</h2>
+<h2 align="left">GitHub Stats (2025)</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical" alt="Mahmoud's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical&hide_title=true&since=2025-01-01" alt="Mahmoud's GitHub Stats 2025" />
 </p>
+
+<h2 align="left">Coding Activity (2025)</h2>
+
+![Mahmoud's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudDahees&theme=react-dark&area=true&from=2025-01-01)
 
 <!-- links -->
 [GitHub Repositories]: https://github.com/MahmoudDahees?tab=repositories
 [issues page]: https://github.com/MahmoudDahees/issues
-[LinkedIn]: https://www.linkedin.com/in/mahmoud-mohamed-dahees-7b86511b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGoUtWC7vQq2Kx3AdJcdzaw%3D%3D
+[LinkedIn]: https://www.linkedin.com/in/mahmoud-mohamed-dahees-7b86511b2
