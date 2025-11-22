@@ -1,5 +1,6 @@
 <h1 align="left">:wave: Hello there! I'm Mahmoud Mohamed Dahees</h1>
-<h3 align="left">AI / Machine Learning Developer | Python Enthusiast | Data Science Explorer</h3>
+<h3 align="left">AI/ML Developer | Python | TensorFlow | Data Science | Problem Solver
+</h3>
 
 <p align="left">
   <a href="https://github.com/MahmoudDahees">
@@ -74,14 +75,10 @@
 <h2 align="left">GitHub Stats & Streak</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical&hide_title=true&since=2025-01-01" alt="Mahmoud's GitHub Stats 2025" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=tokyonight" alt="GitHub Streak" />
+
 </p>
-
-
-<h2 align="left">Coding Activity (2025)</h2>
-
-![Mahmoud's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudDahees&theme=react-dark&area=true&from=2025-01-01)
 
 <!-- links -->
 [GitHub Repositories]: https://github.com/MahmoudDahees?tab=repositories
