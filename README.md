@@ -79,12 +79,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=radical" alt="GitHub Streak" />
 </p>
 
-<h2 align="left">Coding Activity</h2>
-
-> My coding hours tracked via GitHub contributions
-
-![Mahmoud's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudDahees&theme=react-dark&area=true)
-
 <!-- links -->
 [GitHub Repositories]: https://github.com/MahmoudDahees?tab=repositories
 [issues page]: https://github.com/MahmoudDahees/issues
