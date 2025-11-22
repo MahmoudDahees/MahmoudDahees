@@ -53,13 +53,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://matplotlib.org/">
-        <img src="https://tse2.mm.bing.net/th/id/OIP.WwXtTG8_vtxWGz1c34lQQQHaBx?rs=1&pid=ImgDetMain&o=7&rm=3" width="48" height="48" alt="Matplotlib" />
+        <img src="https://vectorseek.com/wp-content/uploads/2023/08/Matplotlib-Logo-Vector.svg-.png" width="48" height="48" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
     <td align="center" width="96">
       <a href="https://seaborn.pydata.org/">
-        <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="48" height="48" alt="Seaborn" />
+        <img src="https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png" width="48" height="48" alt="Seaborn" />
       </a>
       <br>Seaborn
     </td>
