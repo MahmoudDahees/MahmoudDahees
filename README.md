@@ -72,7 +72,12 @@
   </tr>
 </table>
 
-<h2 align="left">GitHub Stats (2025)</h2>
+<h2 align="left">GitHub Stats & Streak</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical&hide_title=true&since=2025-01-01" alt="Mahmoud's GitHub Stats 2025" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudDahees&theme=radical" alt="GitHub Streak" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudDahees&show_icons=true&count_private=true&theme=radical&hide_title=true&since=2025-01-01" alt="Mahmoud's GitHub Stats 2025" />
