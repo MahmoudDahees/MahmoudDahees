@@ -53,7 +53,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://matplotlib.org/">
-        <img src="https://matplotlib.org/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
+        <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/lib/matplotlib/mpl-data/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
       </a>
       <br>Matplotlib
     </td>
